@@ -1,0 +1,6 @@
+D:\david\Solution1\Намиране на просто число\bin\Debug\Намиране на просто число.exe.config
+D:\david\Solution1\Намиране на просто число\bin\Debug\Намиране на просто число.exe
+D:\david\Solution1\Намиране на просто число\bin\Debug\Намиране на просто число.pdb
+D:\david\Solution1\Намиране на просто число\obj\Debug\Намиране на просто число.csproj.CoreCompileInputs.cache
+D:\david\Solution1\Намиране на просто число\obj\Debug\Намиране на просто число.exe
+D:\david\Solution1\Намиране на просто число\obj\Debug\Намиране на просто число.pdb
